@@ -20,5 +20,4 @@ The notebooks in this repository are:
 
 The following files are required to run the notebooks:
 
-- data folder: this contains all the data files in .csv format
 - requirements.yml: this contains the list of required packages for the environment
